@@ -257,8 +257,8 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 **Nikhil Misal**
 Embedded Systems · PCB Design · IoT
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat-square&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat-square&logo=github)]([https://github.com/your-username](https://github.com/Nikhil-Misal-24))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0A66C2?style=flat-square&logo=linkedin)]( https://linkedin.com/in/nikhil-misal24)
 
 ⭐ If you found this project useful, consider giving it a star.
 
