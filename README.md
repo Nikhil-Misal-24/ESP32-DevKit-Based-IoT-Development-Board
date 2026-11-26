@@ -23,7 +23,7 @@
 </p>
 
 <!-- Replace with your board render / photo -->
-<img src="docs/pcb-render.png" alt="ESP32 Multi-Sensor Board" width="720"/>
+<img src="Screenshot 2026-03-03 230523.png" width="720"/>
 
 </div>
 
