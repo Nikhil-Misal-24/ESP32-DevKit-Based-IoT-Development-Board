@@ -254,7 +254,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 ### 👤 Author
 
-**Your Name**
+**Nikhil Misal**
 Embedded Systems · PCB Design · IoT
 
 [![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat-square&logo=github)](https://github.com/your-username)
